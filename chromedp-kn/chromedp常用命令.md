@@ -1,7 +1,8 @@
 安装
+```golang
 
 gopm get github.com/chromedp/chromedp
-
+```
 
 常用的选择器
 ```golang
