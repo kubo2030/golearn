@@ -95,3 +95,8 @@ func WirteTXT(txt  string ) {
 }
 
 ```
+
+说明
+第一个任务主要就是为了设置cookie即模拟登录
+
+第二个任务是主要用来点击下一页按钮和获取指定html内容
